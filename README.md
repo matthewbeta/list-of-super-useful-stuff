@@ -65,7 +65,7 @@ A list of *super* useful links for my colleagues (or anyone else)
 ## Responsive email
 - [Responsive emails (ideas)](http://reallygoodemails.com/)
 - [Responsive emails (patterns)](http://responsiveemailpatterns.com/)
-
+- [How your email looks in different clients](http://templates.mailchimp.com/concepts/email-clients/)
 ## Performance
 
 - [Front end performance for web designers](http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/)
